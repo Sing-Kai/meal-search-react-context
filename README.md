@@ -1,3 +1,8 @@
+# Simple React Example Using React Conext
+
+app stores search term and user a custom react hook to return value that is used in fetch api parameter
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
